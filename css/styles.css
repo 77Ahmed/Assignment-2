@@ -1,0 +1,39 @@
+/* header */
+.next {
+    height: 720px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+#thank {
+    color:red;
+    font-size: 60px;
+    font-weight:lighter;
+    margin-bottom: 100px;
+}
+
+#sele {
+    color: rgb(32, 32, 74);
+    font-size: 150%;
+    font-weight: bold;
+    margin-top: -100px;
+    padding-left: 120px;
+}
+
+#main {
+    margin-top: -46px;
+    padding-left: 115px;
+}
+
+.sb {
+    color: azure;
+    background-color: #cd0000;
+    width: 84%;
+    height: 43px;
+    border-radius: 20px;
+}
+/*        */
+.ifr{
+    justify-content: right;
+    align-content: right;
+}
